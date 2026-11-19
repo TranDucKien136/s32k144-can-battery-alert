@@ -7,3 +7,10 @@ SDK/
 *.d
 *.elf
 *.map
+
+# KiCad
+*-backups/
+.history/
+*.kicad_prl
+*.lck
+fp-info-cache
