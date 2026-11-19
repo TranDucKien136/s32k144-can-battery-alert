@@ -1,0 +1,9 @@
+Debug_FLASH/
+Debug_RAM/
+Release_FLASH/
+Release_RAM/
+SDK/
+*.o
+*.d
+*.elf
+*.map
